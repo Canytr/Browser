@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/03 15:13:02.000.716,=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/08/03 15:13:02.000.615,=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/19 15:03:54.994,=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/19 15:03:55.231,=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/19 15:05:03.675,C:\GitHub Project\Browser\Unit1.h=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/10/19 15:05:03.675,C:\GitHub Project\Browser\Unit1.fmx=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/10/19 15:05:03.675,C:\GitHub Project\Browser\Unit1.cpp=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/10/19 15:05:03.697,C:\GitHub Project\Browser\BrowserPCH1.h=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/10/19 15:05:03.728,C:\GitHub Project\Browser\Browser.cbproj=C:\Users\CAN\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/10/19 15:05:35.467,C:\GitHub Project\Browser\MainWindow.fmx=C:\GitHub Project\Browser\Unit1.fmx</Transaction>
+    <Transaction>2023/10/19 15:05:35.467,C:\GitHub Project\Browser\MainWindow.h=C:\GitHub Project\Browser\Unit1.h</Transaction>
+    <Transaction>2023/10/19 15:05:35.467,C:\GitHub Project\Browser\MainWindow.cpp=C:\GitHub Project\Browser\Unit1.cpp</Transaction>
+    <Transaction>2023/10/19 15:05:38.973,C:\GitHub Project\Browser\Browser.cbproj=C:\GitHub Project\Browser\Browser.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

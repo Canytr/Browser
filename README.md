@@ -3,7 +3,7 @@ This Browser is designed for low-performance systems, it opens pages quickly and
 
 # Lightweight Browser Project
 
-[Include an image.]
+![Image](images/Browser.png)
 
 ## Table of Contents
 
