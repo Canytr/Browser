@@ -1,32 +1,34 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+# Compiled output
 *.exe
-*.out
-*.app
+*.dll
+*.bpl
+*.lib
+__history/
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
+OSX32/Debug/
+OSX32/Release/
+Android/Debug/
+Android/Release/
+
+# RAD Studio project-specific files
+*.identcache
+*.local
+*.bdsproj.local
+*.dsk
+*.dproj.local
+*.groupproj.local
+
+# RAD Studio various temporary files
+__recovery/
+__listviewimages/
+__history/
+__recovery/
+
+# RAD Studio user-specific files
+*.user
+
+# IDE customizations
+*.editorconfig
